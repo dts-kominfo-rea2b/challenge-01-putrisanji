@@ -66,7 +66,6 @@ const education1 = [];
 addEdu(education1, "SD 01", "Jakarta", 2016);
 addEdu(education1, "SMP 02", "Jakarta", 2019);
 addEdu(education1, "SMA 03", " Tangerang");
-console.log(education1);
 
 //=== add second user multipele data ====//
 
